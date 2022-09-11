@@ -7,7 +7,7 @@ Explore the most popular and useful patterns on GO
 * [ ] know about patterns on go
 * [ ] how to on the language
 * [ ] Gang of Four?
-* [ ] Trade offs
+* [ ] Trade-offs
 
 #### Resource
 
